@@ -1,7 +1,10 @@
 
-https://s3.ap-northeast-2.amazonaws.com/wallet-address-generator/index.html
 
-**** Meconcash prefixes ***********************************
+**** Universal Client-Side Wallet Generator ***********************************
+https://s3.ap-northeast-2.amazonaws.com/wallet-address-generator/index.html
+*******************************************************************************
+
+**** Meconcash prefixes ******************************************************
 Meconcash prefixes 
 Wallet Address prefix - 0x32
 Private Key prefix - 0xb2
